@@ -31,5 +31,6 @@ Homestead.json
 # Laravel IDE helper
 *.meta.*
 _ide_*
+mysql
 
 # End of https://www.toptal.com/developers/gitignore/api/laravel
